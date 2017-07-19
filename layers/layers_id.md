@@ -47,7 +47,7 @@
 |145|Parameter|-|
 |146|Recurrent|-|
 |147|CenterLoss|+|
-|148|L2Norm|+|
+|148|L2Normalization|+|
 
 
 **FLAG** <br>
