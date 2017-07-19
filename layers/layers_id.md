@@ -48,6 +48,7 @@
 |146|Recurrent|-|
 |147|CenterLoss|+|
 |148|L2Normalization|+|
+|149|LargeMarginSoftmaxLoss|+|
 
 
 **FLAG** <br>
