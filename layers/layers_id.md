@@ -1,10 +1,10 @@
 
 |ID|NAME|FLAG||ID|NAME|FLAG|
 |:-:|:-|:-:|-|:-:|:-|:-:|
-|102|Accuracy|-||147|CenterLoss|+|
-|103|ArgMax|-||148|L2Normalization|+|
-|104|Concat|-||149|LargeMarginSoftmaxLoss|+|
-|105|ContrastiveLoss|-|||||
+|102|Accuracy|-||201|CenterLoss|+|
+|103|ArgMax|-||202|L2Normalization|+|
+|104|Concat|-||203|LargeMarginSoftmaxLoss|+|
+|105|ContrastiveLoss|-||204|FocalLoss|+|
 |106|Convolution|-|||||
 |107|Data|-|||||
 |108|Dropout|-|||||
